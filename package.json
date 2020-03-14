@@ -63,7 +63,7 @@
     "@babel/plugin-proposal-object-rest-spread": "^7.6.2",
     "@babel/plugin-transform-react-jsx": "^7.3.0",
     "@babel/preset-env": "^7.6.2",
-    "acorn": "^7.1.0",
+    "acorn": "^7.1.1",
     "acorn-jsx": "^5.0.2",
     "autoprefixer": "^9.6.1",
     "clean-css": "^4.2.1",
